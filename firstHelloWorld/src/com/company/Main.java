@@ -20,5 +20,9 @@ public class Main {
         System.out.println("Hi World first!!!!");
         System.out.println("Hi World first!!!!");
         System.out.println("Hi World first!!!!");
+        System.out.println("Hi World first!!!! 从 git下来的project。。。");
+        System.out.println("Hi World first!!!!");
+        System.out.println("Hi World first!!!!");
+        System.out.println("Hi World first!!!!");
     }
 }
